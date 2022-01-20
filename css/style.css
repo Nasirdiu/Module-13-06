@@ -7,7 +7,21 @@ body{
     box-sizing: 0px;
        
 }
+header{
+    background-color: #FFFBF0;
+}
 .span-text{
     color: #FABE4C;
 }
-
+.buttion{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(16, 97, 16),rgb(16, 97, 16));
+    color: white;
+    padding: 5px 10px;
+}
+.prize{
+    background-color:  #FABE4C;
+    width: 25%;
+    border-radius: 5px;
+}
