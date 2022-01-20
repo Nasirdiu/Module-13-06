@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Lobster&family=Poppins:wght@100;500&family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+       
+}
+.span-text{
+    color: #FABE4C;
+}
+
